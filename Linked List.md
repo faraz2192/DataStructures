@@ -1,4 +1,4 @@
-Linked List
+<b>Linked List<b>
 - Because of disadvantage of using Arrays for storing data as it is of fixed size, Expensive for Insertions and Deletions
 - Linked List addresses some of issues.
 - Linear Dynamic Data Structure.
